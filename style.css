@@ -1,0 +1,51 @@
+body {
+    background: #efeee7;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333333;
+    text-align: center;
+}
+
+h1 {
+    color: #eee;
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+#bio-image {
+    width: 200px;
+    height: 200px:
+}
+
+#main-bio {
+    float: left;
+}
+
+#bio-info {
+    width: 40%;
+    float: left;
+    margin-left: 10px;
+    margin-top: 50px;
+}
+
+#contact-info {
+    width: 30%;
+    float: left;
+    margin-left: 60px;
+}
+
+a:link {
+    color: red;
+}
+
